@@ -1,0 +1,20 @@
+[CC] 143588 Cartão de Crédito - Fase de Contratação|08:00-10:00
+[Daily] Daily Equipe|10:00-10:15
+[CC] 143588 Cartão de Crédito - Fase de Contratação|10:15-13:00
+[CC] 143588 Cartão de Crédito - Fase de Contratação|14:00-16:20
+[Daily] Daily iOS|16:20-16:35
+[CC] 143588 Cartão de Crédito - Fase de Contratação|16:35-17:00
+=EOD=
+
+Time
+* [DAILY] 
+* [PROJECT_TAG] - devops_ID - description . e.g [AISP], [PISP], [Credit]
+* [Feature_name] devops_ID - description (feature! Not task nor PBI)
+* [BUG] devops_ID - description
+* [PBI] devops_ID - description
+* [TASK] devops_ID - description
+* [TICKET] devops_ID - description
+* [MEETING] - meeting description
+* [PR]- when it’s a bigger PR where we spend a lot of hours in it, we should separate those spent hours and add it to the feature/project itself….e.g [PR] MGM [PR] AISP
+* [APP Testing] - description - studying/research/testing the app/looking for bugs e etc
+* [Refactors] - description
